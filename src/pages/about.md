@@ -4,7 +4,7 @@ title: "À propos"
 description: "Qui se cache derrière Mamiefurax"
 ---
 
-![cover](/public/tech-cover.png)
+![cover](/tech-cover.png)
 
 ## 👋 Salut, moi c’est **Mamiefurax**
 
