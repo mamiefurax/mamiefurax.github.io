@@ -1,37 +1,102 @@
 ---
 layout: ../layouts/AboutLayout.astro
-title: "About"
+title: "À propos"
+description: "Qui se cache derrière Mamiefurax"
 ---
 
-AstroPaper is a minimal, accessible and SEO-friendly blog theme built with [Astro](https://astro.build/) and [Tailwind CSS](https://tailwindcss.com/).
+## 👋 Salut, moi c’est **Mamiefurax**
 
-![Astro Paper](public/astropaper-og.jpg)
+Ingénieur senior en développement, **passionné de tech**, de systèmes bien conçus et de bidouilles propres.  
+Aujourd’hui **Responsable Plateforme chez Volubile**, je passe mon temps à concevoir, faire évoluer et sécuriser des plateformes techniques à grande échelle.
 
-AstroPaper provides a solid foundation for blogs, or even portfolios\_ with full markdown support, built-in dark mode, and a clean layout that works out-of-the-box.
+J’aime quand les choses sont :
+- **simples**
+- **robustes**
+- **observables**
+- **automatisées**
 
-The blog posts in this theme also serve as guides, docs or example articles\_ making AstroPaper a flexible starting point for your next content-driven site.
+Bref : quand elles tiennent la charge 💥
 
-## Features
+---
 
-AstroPaper comes with a set of useful features that make content publishing easy and effective:
+## 🧠 Ce que je fais (et ce que j’aime faire)
 
-- SEO-friendly
-- Fast performance
-- Light & dark mode
-- Highly customizable
-- Organizable blog posts
-- Responsive & accessible
-- Static search with [PageFind](https://pagefind.app/)
-- Automatic social image generation
+Je navigue entre plusieurs mondes, souvent au même moment :
 
-and so much more.
+- 🧩 **Architecture logicielle** (monolithes bien pensés > microservices inutiles)
+- ⚙️ **Backend & APIs** (Node.js, PHP, Python, event-driven)
+- ☁️ **Cloud & infra** (AWS, Lambda, API Gateway, Terraform)
+- 🔐 **Sécurité & isolation** (auth, OAuth, IAM, réseaux)
+- 📡 **IoT & Smart Home** (Alexa, devices, protocoles exotiques)
+- 📊 **Observabilité** (logs, métriques, traces – sans bruit)
 
-## Show your support
+Je crois beaucoup au **pragmatisme technique** :
+> le bon outil, au bon endroit, au bon moment.
 
-If you like [AstroPaper](https://github.com/satnaing/astro-paper), consider giving it a star ⭐️.
+---
 
-Found a bug 🐛 or have an improvement ✨ in mind? Feel free to open an [issue](https://github.com/satnaing/astro-paper/issues), submit a [pull request](https://github.com/satnaing/astro-paper/pulls) or start a [discussion](https://github.com/satnaing/astro-paper/discussions).
+## 🧑‍💻 Vibe coding
 
-If you find this theme helpful, you can also [sponsor me on GitHub](https://github.com/sponsors/satnaing) or [buy me a coffee](https://buymeacoffee.com/satnaing) to show your support — every penny counts.
+Je pratique ce que j’appelle le **vibe coding** :
+
+- comprendre un problème en profondeur
+- prototyper vite
+- itérer sans peur de casser
+- refactorer sans état d’âme
+- documenter ce qui mérite de l’être
+
+Pas de dogme.  
+Pas de buzzwords inutiles.  
+Juste du **code qui sert un usage réel**.
+
+---
+
+## 🧱 Infra & plateformes
+
+L’infra n’est pas un mal nécessaire, c’est un **produit**.
+
+J’aime :
+- 🛠️ **l’automatisation** (CI/CD, GitOps)
+- 🧬 **l’infra as code**
+- 🔁 **les systèmes résilients**
+- 📉 **réduire la complexité**
+
+Un bon système est souvent :
+- ennuyeux
+- prévisible
+- silencieux
+
+Et c’est très bien comme ça 😌
+
+---
+
+## 🧪 Pourquoi ce blog
+
+Ce blog est un **terrain de jeu technique**.
+
+J’y partage :
+- des **projets personnels**
+- des **POC**
+- des **retours d’expérience**
+- des **erreurs** (parce qu’on apprend plus comme ça)
+
+Principalement autour de :
+- 🏠 Smart Home
+- ☁️ Cloud & serverless
+- 🧠 Architecture
+- 🔍 Debug & compréhension de systèmes complexes
+
+---
+
+## 🧵 TL;DR
+
+- 👨‍💻 Ingénieur senior
+- 🧠 Responsable Plateforme
+- 🧪 Hacker curieux
+- ☁️ Cloud & infra
+- 🧩 Builder avant tout
+
+Si tu es là pour le **code**, l’**infra**, les **systèmes**, ou juste la curiosité technique…  
+👉 tu es au bon endroit.
 
 Kyay zuu! 🙏🏼
