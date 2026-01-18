@@ -1,7 +1,7 @@
 ---
 title: "Créer une skill Alexa Smart Home pour DIO Home"
 description: "Retour d’expérience sur une intégration Alexa Smart Home v3 avec une box DIO"
-pubDate: 2026-01-15T00:00:00.000Z
+pubDatetime: 2026-01-15T00:00:00.000Z
 tags:
   - alexa
   - iot
