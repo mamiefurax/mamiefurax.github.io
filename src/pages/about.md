@@ -4,6 +4,8 @@ title: "À propos"
 description: "Qui se cache derrière Mamiefurax"
 ---
 
+![cover](/assets/tech-cover.png)
+
 ## 👋 Salut, moi c’est **Mamiefurax**
 
 Ingénieur senior en développement, **passionné de tech**, de systèmes bien conçus et de bidouilles propres.  
